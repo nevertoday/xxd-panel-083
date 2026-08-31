@@ -1,17 +1,17 @@
-# XXD Panel 083 · Faithful reading translation
+# XXD Panel 083 Original Prompt · English Reading Translation
 
-请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。整体采用3:4竖版构图，上下两个区域高度严格1:1，各占画面50%。
+Turn each photograph I upload into a separate premium design poster. Do not combine multiple images; output each photograph separately. Use an overall 3:4 portrait composition, with the upper and lower regions kept at a strict 1:1 height ratio, each occupying 50% of the image.
 
-上半部分保留原始照片，保持主体身份、结构、姿态、真实质感、自然光影和原有色彩氛围，仅进行轻微高级调色，使其具有艺术杂志、独立出版物与展览图像质感。为适配画幅，可自然扩展环境背景，但不得拉伸、扭曲或改变主体。
+Retain the original photograph in the upper half, preserving the subject's identity, structure, pose, authentic texture, natural light and shadow, and original colour atmosphere. Apply only subtle, premium colour grading to give it the quality of an art magazine, independent publication, or exhibition image. The surrounding environment may be extended naturally to fit the aspect ratio, but the subject must not be stretched, distorted, or altered.
 
-下半部分先重新理解照片，而不是直接重画。提取其中最具识别性的**主体、轮廓、姿态与叙事关系**，只保留一个最值得记住的视觉核心，并主动删除大部分背景与无关细节。进一步寻找照片里最有趣的性格、动作、反差或潜在隐喻，将它加工成一个**故意画丑、但一眼能认出的幽默视觉角色**。可以夸张某个比例、动作、表情或结构，让原本普通的对象产生一点荒诞、呆滞、尴尬或意外的喜剧感；不要只是把照片变成线稿。
+In the lower half, first reinterpret the photograph instead of directly redrawing it. Extract its most recognisable **subject, silhouette, pose, and narrative relationships**, retain only the one visual core most worth remembering, and actively remove most of the background and irrelevant detail. Then find the photograph's most interesting character, action, contrast, or latent metaphor and develop it into a **deliberately ugly, humorous visual character that remains instantly recognisable**. Exaggerate a proportion, action, expression, or structure where appropriate, giving an ordinary object a touch of absurdity, blankness, awkwardness, or unexpected comedy. Do not merely turn the photograph into line art.
 
-画风采用 **Ugly-cute naïve doodle / wonky hand-drawn illustration**：使用松散、发抖、不均匀的手绘轮廓，比例可以故意失准，透视可以适度放弃，形体可以笨拙、歪斜、略显“不太会画”，但这种不准确必须经过控制。核心原则是：**画得太正确就是失败，画得有点丑、有点笨、有点好笑才成立。**
+Use an **Ugly-cute naïve doodle / wonky hand-drawn illustration** style: loose, trembling, uneven hand-drawn contours; deliberately inaccurate proportions; moderately abandoned perspective; and clumsy, crooked forms that look slightly “badly drawn,” while keeping every inaccuracy controlled. The central rule is: **drawing it too correctly is failure; it works only when it is a little ugly, a little clumsy, and a little funny.**
 
-构图重新设计，不复制原照片布局。画面尽量只保留**一个主体 + 至多一两个真正必要的环境暗示**，通过放大、缩小、偏心、悬置、裁切或大面积留白强化主体性格。不要把照片里的物件逐个画出来，不做“生活物品清单”；让一个动作、一个轮廓或一个荒诞关系承担整张图的叙事，使页面更简单、更有记忆点。
+Redesign the composition rather than copying the photograph's layout. Keep, as far as possible, only **one subject + no more than one or two genuinely necessary environmental hints**, strengthening the subject's character through enlargement, reduction, eccentric placement, suspension, cropping, or expansive negative space. Do not draw every object in the photograph or create a “household-item inventory.” Let one action, one silhouette, or one absurd relationship carry the whole narrative, making the page simpler and more memorable.
 
-上色使用蜡笔、彩铅、干刷或略显粗糙的平涂感，颜色从上方照片中挑选最有辨识度、最有精神的少数色彩重新简化。允许填色不完全、轻微越线、局部漏白和摩擦颗粒，使画面像私人小志或随手画册，而不是商业精修插画。背景保持干净、浅淡和大面积留白。
+Colour with crayons, coloured pencils, dry brush, or slightly rough flat fills, selecting and simplifying only the few most distinctive and spirited colours from the upper photograph. Allow incomplete fill, slight overspill, local uncoloured gaps, and rubbed grain so the image resembles a private zine or casual sketchbook rather than a commercially polished illustration. Keep the background clean, pale, and broadly empty.
 
-文字如果出现，只加入极少量真正能增强幽默或性格的字词、短句或手写注记，不限制语种，也不固定标题形式。文字可以和主体发生小小的视觉互动，但不要形成复杂信息系统，让文字像作者随手补上的一句吐槽、观察或旁白。
+If text appears, add only a very small number of words, short phrases, or handwritten notes that genuinely strengthen the humour or character. Do not restrict the language or impose a fixed title format. Text may interact subtly with the subject, but it must not become a complex information system; it should feel like an offhand complaint, observation, or aside added by the author.
 
-整体追求**少、怪、笨、准**：元素很少，形态有点怪，画法故意笨，但主体身份和幽默判断必须准确。像一本独立出版的丑萌涂鸦小志——随意、好笑、有人格、有记忆点，却拥有成熟的取舍与构图意识。避免完整场景复刻、背景堆积、多个同等主体、精确透视、写实描绘、漂亮商业插画、过度可爱卡通和模板感。
+Aim overall for **few, strange, clumsy, precise**: very few elements, slightly strange forms, deliberately clumsy drawing, but accurate judgement of identity and humour. It should resemble an independently published ugly-cute doodle zine—casual, funny, personal, and memorable, yet guided by mature editing and compositional judgement. Avoid full-scene reconstruction, accumulated backgrounds, multiple equal subjects, precise perspective, realistic depiction, beautiful commercial illustration, excessively cute cartooning, and template styling.

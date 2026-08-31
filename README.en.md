@@ -14,29 +14,36 @@
 
 </div>
 
-## Samples
-Verified samples (English intelligent copy):
+## Sample gallery
+
+**16:9 landscape left–right samples**
 
 | sample-05 | sample-06 |
 |---|---|
 | ![sample-05](assets/examples/sample-05.png) | ![sample-06](assets/examples/sample-06.png) |
 | ![sample-07](assets/examples/sample-07.png) | ![sample-08](assets/examples/sample-08.png) |
 
+**3:4 portrait top–bottom samples**
 
-Sample positions are reserved. Verifiable original works or extensions reviewed directly against the Panel 083 source brief will be shown here first; images from another numbered Panel and broken placeholders are never substituted.
+| sample-09 | sample-10 |
+|---|---|
+| ![sample-09](assets/examples/sample-09.png) | ![sample-10](assets/examples/sample-10.png) |
+| ![sample-11](assets/examples/sample-11.png) | ![sample-12](assets/examples/sample-12.png) |
+
+`sample-01`–`sample-04` remain reserved for verifiable original release samples. The eight works above comprise four 16:9 landscape left–right samples and four 3:4 portrait top–bottom samples. Every work was generated independently by Panel 083 from its own original brief; no artwork from another numbered Panel is reused. The samples use intelligent English copy.
 
 <!-- xxd-human-intro:start -->
 ## What it solves
 
-Edge-tracing filters mechanically copy everything, while complete watercolour scenes often fill the background until subject, space, and editorial rhythm all become heavy.
+Redrawing an entire photograph usually produces dull line art. Making it too beautiful and correct removes the original subject's most interesting character, action, contrast, and awkwardness.
 
-**Panel 083** symbolises memory with an even-weight monoline system: open contours, broken edges, restrained wobble, and line subtraction keep only what gives the subject identity and feeling. Two to four vivid source colours become spot-ink lines; density, brightness, registration shift, and grain create a printed keepsake rather than a black-outline cartoon.
+**Panel 083** keeps one memorable subject and at most one or two necessary environmental hints, then deliberately bends one proportion, action, expression, or structure into controlled ugliness and absurdity. Trembling contours, inaccurate proportions, rough crayon, and negative space create an Ugly-cute naïve doodle whose identity and humour still come precisely from the source.
 
 ### Best for
 
-- architecture, travel, and field observation built from forceful straight lines, turns, planes, and proportions;
-- an alive unfinished quality formed by exploratory repeats, breaks, offsets, and unresolved edges;
-- colour that comes from the photograph but remains sparse, transparent, and subordinate to ink and paper;
+- photographs with one characterful action, expression, proportion, or contrast worth turning into humour;
+- ugly-cute work that is deliberately clumsy and crooked without becoming generically cute or unrecognisable;
+- reducing a complex scene to one subject, one or two clues, rough colour, and a memorable field of emptiness;
 - top-bottom, left-right, design-only, multi-ratio, wallpaper, and directory-batch delivery.
 
 ### Quick start
@@ -58,25 +65,25 @@ The Chinese file preserves the user's wording verbatim and is the sole runtime c
 
 | What you need to know | What this style gives you |
 |---|---|
-| **What you get** | A limited-colour personal keepsake poster with the atmosphere of a travel atlas, map, or architectural diagram |
-| **Recognisable signature** | Even-weight coloured lines, open contours, density hierarchy, slight print misregistration, and broad warm-white paper |
-| **How it respects the source** | It preserves defining identity, contour, pose, space, and narrative relationship; colour comes only from recognisable source hues |
+| **What you get** | A humorous character poster resembling an independently published ugly-cute doodle zine |
+| **Recognisable signature** | Trembling uneven contours, deliberately inaccurate proportions, sparse rough colour, one subject, and broad pale space |
+| **How it respects the source** | Identity and humour come from the photograph; only its most characterful action, contrast, expression, or structure is exaggerated |
 | **Where it works** | Art posters, covers, social content, design-only art, multiple ratios, and four-device wallpaper sets |
 <!-- xxd-panel-benefit:end -->
 
 ## Transformation logic
 
 ```text
-extract identity, contour, pose, and narrative relationship → symbolise memory with an even-weight monoline → simplify complex regions into repeated marks and density levels → extract 2–4 vivid source colours as spot-ink lines → add grain, registration shift, and uneven ink → compose asymmetrically around one core → let warm-white space and sparse handwritten notes carry the private narrative
+reinterpret the photograph before drawing → keep one memorable subject and at most two necessary clues → identify its funniest action, contrast, expression, or latent metaphor → exaggerate it through controlled wrongness and wonky contours → simplify source colours into rough crayon or pencil → preserve pale negative space → add only an offhand humorous note when useful
 ```
 
 ## Recognisable finished traits
 
-- Outer and inner lines keep near-equal visual weight: they describe shape and structure rather than realistic volume.
-- Architecture and objects use geometric frameworks; people, plants, animals, and natural forms use softer organic gestures.
-- Dense repeated marks aggregate complex areas while sparse lines release the background and preserve depth.
-- Coloured lines carry information directly; there is no default black outline plus coloured fill.
-- One clear visual core and asymmetric spacing guide the eye; warm-white space carries air, distance, pause, and emotion.
+- One protagonist carries the narrative; environmental objects are removed unless genuinely necessary.
+- Proportions, perspective, and contours are deliberately wrong, but every wrongness is controlled and recognisable.
+- Crayon, coloured pencil, dry brush, incomplete fill, overspill, and paper grain create a private-zine surface.
+- Enlargement, reduction, eccentric placement, cropping, or suspension amplify the subject's comic character.
+- Any text behaves like a tiny complaint, observation, or aside rather than an information system.
 
 All aesthetic constraints live only in the [canonical prompt](references/original-prompt/zh-CN.md). The Skill and runtime adapters resolve delivery variables. [Skill workflow](SKILL.md) · [English runtime adapter](references/xxd-panel-083-prompt.en.md)
 
