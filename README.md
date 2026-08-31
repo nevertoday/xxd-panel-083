@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 083
+# 🦁 XXD Panel 083｜丑萌角色志
 
 ### 把照片里最值得记住的性格，画成少、怪、笨、准的丑萌角色
 

@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 083
+# 🦁 XXD Panel 083｜Ugly-Cute Character Journal
 
 ### Turn the photograph's sharpest personality into a sparse, strange, clumsy, accurate ugly-cute character
 
