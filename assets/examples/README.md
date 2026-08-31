@@ -9,9 +9,17 @@ This directory contains the reviewed extension samples displayed by all five loc
 
 ## Reviewed extension samples
 
-- `sample-05`–`sample-08`: four 16:9 landscape left–right works (1672×941 PNG); the reality view is on the left and Panel 083's transformed design is on the right.
-- `sample-09`–`sample-12`: four approximately 3:4 portrait top–bottom works (nominally 1086×1448 PNG); the reality view is above and Panel 083's transformed design is below.
-- Each work was generated independently from Panel 083's canonical prompt, uses intelligent English copy, and was reviewed for the correct comparison direction.
-- No artwork from another numbered Panel, broken placeholder, or banner is accepted as a sample.
+- `sample-05`–`sample-08`: 16:9 landscape, reality view left and Panel 083 transformation right; source group `group_009`.
+  - `sample-05.png` ← `group_009/033.jpg`
+  - `sample-06.png` ← `group_009/034.jpg`
+  - `sample-07.png` ← `group_009/035.jpg`
+  - `sample-08.png` ← `group_009/036.jpg`
+- `sample-09`–`sample-12`: 3:4 portrait, reality view above and Panel 083 transformation below; source group `group_014`.
+  - `sample-09.png` ← `group_014/053.jpg`
+  - `sample-10.png` ← `group_014/054.jpg`
+  - `sample-11.png` ← `group_014/055.webp`
+  - `sample-12.png` ← `group_014/056.png`
+- Every sample is a separate complete-canvas generation from its mapped source, the canonical Panel 083 prompt, and source-grounded intelligent English copy.
+- Review checks cover source identity, comparison direction, Panel-specific visual language, readable English, and absence of third bands, watermarks, UI, or cross-Panel artwork.
 
 Canonical authority: `../../references/original-prompt/zh-CN.md`.
