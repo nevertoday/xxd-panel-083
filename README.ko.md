@@ -1,5 +1,3 @@
-<p align="center"><img src="./assets/banner.svg" alt="XXD Panel 083 프로젝트 배너" width="1200"></p>
-
 <div align="center">
 
 # 🦁 XXD Panel 083｜못생기고 귀여운 캐릭터 저널
