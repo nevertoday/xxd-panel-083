@@ -47,6 +47,15 @@ Redrawing an entire photograph usually produces dull line art. Making it too bea
 
 <!-- xxd-human-intro:end -->
 
+## Usage tips
+
+- **Start with one clear photo:** choose a source whose subject, action, and relationships are easy to recognize before choosing the delivery format.
+- **Join the parameters in one sentence:** say “top-bottom / left-right / design-only + 16:9 / 3:4 / phone wallpaper”; you can also name desktop, tablet, or smartwatch sizes.
+- **State what must stay:** identify the people, objects, actions, relationships, and copy to preserve, while leaving room for the style to design the layout.
+- **Choose a text mode:** let the model write from the image, lock exact wording with `--text exact --copy`, or remove text completely with `--text none`.
+- **Clarify reality and design regions:** for top-bottom or left-right, say which region keeps the photograph and which region is redesigned; for design-only and wallpapers, say that the whole canvas is redesigned.
+- **Test one image before batching:** confirm mode, ratio, text, and language on one source, then reuse the settings for a folder; change one variable per iteration.
+
 ## Original prompt · Five languages
 
 [简体中文](references/original-prompt/zh-CN.md) · [English](references/original-prompt/en.md) · [日本語](references/original-prompt/ja.md) · [한국어](references/original-prompt/ko.md) · [العربية](references/original-prompt/ar.md)
@@ -65,22 +74,6 @@ The Chinese file preserves the user's wording verbatim and is the sole runtime c
 | **How it respects the source** | Identity and humour come from the photograph; only its most characterful action, contrast, expression, or structure is exaggerated |
 | **Where it works** | Art posters, covers, social content, design-only art, multiple ratios, and four-device wallpaper sets |
 <!-- xxd-panel-benefit:end -->
-
-## Transformation logic
-
-```text
-reinterpret the photograph before drawing → keep one memorable subject and at most two necessary clues → identify its funniest action, contrast, expression, or latent metaphor → exaggerate it through controlled wrongness and wonky contours → simplify source colours into rough crayon or pencil → preserve pale negative space → add only an offhand humorous note when useful
-```
-
-## Recognisable finished traits
-
-- One protagonist carries the narrative; environmental objects are removed unless genuinely necessary.
-- Proportions, perspective, and contours are deliberately wrong, but every wrongness is controlled and recognisable.
-- Crayon, coloured pencil, dry brush, incomplete fill, overspill, and paper grain create a private-zine surface.
-- Enlargement, reduction, eccentric placement, cropping, or suspension amplify the subject's comic character.
-- Any text behaves like a tiny complaint, observation, or aside rather than an information system.
-
-All aesthetic constraints live only in the [canonical prompt](references/original-prompt/zh-CN.md). The Skill and runtime adapters resolve delivery variables. [Skill workflow](SKILL.md) · [English runtime adapter](references/xxd-panel-083-prompt.en.md)
 
 <details>
 <summary><strong>Full capabilities and parameters (open when needed)</strong></summary>
