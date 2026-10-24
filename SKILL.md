@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-083
-description: "Create XXD Panel 083 raster artwork from one image or a directory batch while treating the bundled original style brief as the sole aesthetic authority. Supports one or more top-bottom, left-right, design-only, and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact, or text-free typography; and inline parameters. Use when the user invokes xxd-panel-083 or requests the exact Panel 083 style."
+description: "XXD Panel 083｜Ugly-Cute Character Journal: rethinks a photo before redrawing it, keeps one subject plus at most one or two hints of setting, finds its funniest personality, action or contrast, and turns it into a deliberately ugly but instantly recognisable comic character in an ugly-cute naive doodle style — loose, shaky, uneven outlines, controlled wrong proportions, abandoned perspective and clumsy, lopsided shapes — coloured with crayon, coloured pencil, dry brush or rough flat fills that miss the lines and leave gaps, in a few of the photo's most spirited colours, on a clean pale ground with lots of whitespace and at most a short handwritten quip. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-083 or asks for ugly-cute, wonky doodle, deliberately badly drawn or funny character illustration from a photo."
 ---
 
 # XXD Panel 083

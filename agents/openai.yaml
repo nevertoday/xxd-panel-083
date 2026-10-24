@@ -1,7 +1,7 @@
 interface:
   display_name: "/xxd-panel-083"
-  short_description: "Create Panel 083 from images or a directory batch."
-  default_prompt: "Use $xxd-panel-083; accept one image or an image directory, keep the body of its bundled original style brief as the sole aesthetic authority, resolve shared batch settings once, isolate every source, send exactly one mode-specific delivery contract per asset, keep one flat task directory, make design-only and wallpaper outputs fully transformed, and ground factual-looking copy in supplied or verified facts."
+  short_description: "丑萌角色志：只留一个主体，把照片里最好笑的性格故意画歪画笨，成一个丑萌喜剧角色"
+  default_prompt: "Use $xxd-panel-083 to turn my photo into Ugly-Cute Character Journal artwork."
 
 policy:
   allow_implicit_invocation: true

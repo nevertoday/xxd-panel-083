@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 083｜Ugly-Cute Character Journal: rethinks a photo before redrawing it, keeps one subject plus at most one or two hints of setting, finds its funniest personality, action or contrast, and turns it into a deliberately ugly but instantly recognisable comic character in an ugly-cute naive doodle style — loose, shaky, uneven outlines, controlled wrong proportions, abandoned perspective and clumsy, lopsided shapes — coloured with crayon, coloured pencil, dry brush or rough flat fills that miss the lines and leave gaps, in a few of the photo's most spirited colours, on a clean pale ground with lots of whitespace and at most a short handwritten quip. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-083 or asks for ugly-cute, wonky doodle, deliberately badly drawn or funny character illustration from a photo.",
+  "short_description": "丑萌角色志：只留一个主体，把照片里最好笑的性格故意画歪画笨，成一个丑萌喜剧角色",
+  "zh-CN": {
+    "name": "丑萌角色志",
+    "tagline": "只留下照片里一个主体，把它最好笑的那点性格故意画丑、画笨，但一眼认得出。",
+    "look": "画面通常只有一个主体，最多再加一两个必要的环境暗示，背景和杂物几乎全删。照片里最有趣的动作、表情或反差被放大：比例故意失准、透视放弃、形体歪斜笨拙，轮廓线松散发抖，像“不太会画”但其实经过控制。用蜡笔、彩铅、干刷或粗糙平涂上色，会越线、漏白、留摩擦颗粒，颜色只取照片里最有精神的几种。底色干净浅淡，大量留白；文字最多一句随手写的吐槽或旁白。",
+    "traits": ["Ugly-cute", "Wonky手绘", "故意失准", "单一主体", "粗糙蜡笔", "少怪笨准"],
+    "good": [
+      "有明显性格或表情的动物：瞪眼的猫、歪头的狗、张嘴的鹅",
+      "带一点尴尬或反差的瞬间：被雨淋湿的人、吃到酸东西的表情、塞满东西的小车",
+      "造型本身有点怪的物件：歪掉的蛋糕、超大的帽子、一盆长疯了的仙人掌"
+    ],
+    "poor": [
+      "需要好看、正式或准确的照片：证件照、婚纱照、产品图、品牌宣传",
+      "多个同等重要主体的合影或场景，只能留下一个",
+      "想要漂亮商业插画、过度可爱卡通或精确写实描绘的需求"
+    ]
+  },
+  "en": {
+    "name": "Ugly-Cute Character Journal",
+    "tagline": "Keeps one subject from your photo and draws its funniest trait deliberately ugly and clumsy, yet instantly recognisable.",
+    "look": "There is usually only one subject, with at most one or two essential hints of setting, and almost all background and clutter removed. The funniest action, expression or contrast in the photo is exaggerated: proportions are deliberately off, perspective is dropped, shapes are lopsided and clumsy, and outlines are loose and shaky, as if drawn by someone who can't quite draw, but under control. Colour goes on in crayon, coloured pencil, dry brush or rough flat fills that cross lines, leave gaps and show grain, using only a few of the photo's most spirited colours. The ground is clean and pale with lots of white space, and the text is at most one jotted quip or aside.",
+    "traits": ["Ugly-cute", "Wonky hand drawing", "Deliberately off", "Single subject", "Rough crayon", "Sparse, odd, clumsy, accurate"],
+    "good": [
+      "Animals with obvious character or expression: a glaring cat, a dog tilting its head, a honking goose",
+      "Moments with a bit of awkwardness or contrast: someone soaked by rain, a face after tasting something sour, an overloaded little car",
+      "Objects that already look a little odd: a collapsed cake, an oversized hat, a cactus that has grown wild"
+    ],
+    "poor": [
+      "Photos that need to look good, formal or exact: ID photos, wedding shots, product photos, brand promotion",
+      "Group shots or scenes with several equally important subjects, since only one is kept",
+      "Requests for pretty commercial illustration, overly cute cartoons or precise realism"
+    ]
+  },
+  "ja": {
+    "name": "ブサかわキャラ手帳",
+    "tagline": "写真から主役を一つだけ残し、そのいちばん可笑しい性格をわざと下手に不器用に、でもひと目でわかるように描きます。",
+    "look": "画面にはたいてい主役が一つだけで、必要な場面のヒントは多くても一、二個、背景や雑多な物はほとんど消します。写真でいちばん面白い動き、表情、ギャップを大きくし、比率はわざと狂わせ、遠近は捨て、形はゆがんで不器用に、輪郭はゆるく震えます。「あまり絵がうまくない人」が描いたようでいて、実はコントロールされています。色はクレヨン、色鉛筆、ドライブラシ、ざらっとしたベタ塗りで、はみ出し、塗り残し、こすれた粒子が残り、写真でいちばん元気のある数色だけを使います。地はすっきりした淡い色で余白が多く、文字はあっても走り書きのツッコミやひと言だけです。",
+    "traits": ["ブサかわ", "いびつな手描き", "わざとずらす", "主役は一つ", "ざらっとしたクレヨン", "少なく・変で・不器用で・正確"],
+    "good": [
+      "性格や表情がはっきりした動物：にらむ猫、首をかしげる犬、口を開けたガチョウ",
+      "少し気まずさやギャップのある瞬間：雨でずぶ濡れの人、酸っぱいものを食べた顔、荷物を積みすぎた小さな車",
+      "もともと少し変な形の物：崩れたケーキ、大きすぎる帽子、伸び放題のサボテン"
+    ],
+    "poor": [
+      "見栄えや正確さが必要な写真：証明写真、ウェディング写真、商品写真、ブランドの宣伝",
+      "同じくらい大事な主役が複数いる集合写真や場面（一つしか残せません）",
+      "きれいな商業イラスト、かわいすぎる漫画、正確な写実を求める場合"
+    ]
+  },
+  "ko": {
+    "name": "못생기고 귀여운 캐릭터 저널",
+    "tagline": "사진에서 주인공 하나만 남기고, 그 가장 웃긴 성격을 일부러 못생기고 서툴게, 하지만 한눈에 알아보게 그립니다.",
+    "look": "화면에는 보통 주인공 하나만 있고, 꼭 필요한 환경 힌트는 많아야 한두 개이며, 배경과 잡동사니는 거의 다 지웁니다. 사진에서 가장 재미있는 동작, 표정, 반전을 크게 키워 비율은 일부러 틀리고, 원근은 버리고, 형태는 삐뚤고 서툴며, 윤곽선은 느슨하게 떨립니다. '그림을 잘 못 그리는 사람'이 그린 것 같지만 사실은 조절된 것입니다. 색은 크레용, 색연필, 마른 붓, 거친 평면 채색으로 칠해 선을 넘고, 빈 곳이 남고, 긁힌 입자가 보이며, 사진에서 가장 기운 있는 몇 가지 색만 씁니다. 바탕은 깨끗하고 연하며 여백이 많고, 글자는 있어도 휘갈긴 한마디 태클이나 혼잣말 정도입니다.",
+    "traits": ["어글리 큐트", "삐뚤빼뚤 손그림", "일부러 어긋나게", "단일 주인공", "거친 크레용", "적고·이상하고·서툴고·정확하게"],
+    "good": [
+      "성격이나 표정이 뚜렷한 동물: 째려보는 고양이, 고개 갸웃하는 강아지, 입 벌린 거위",
+      "조금 민망하거나 반전이 있는 순간: 비에 홀딱 젖은 사람, 신 걸 먹은 표정, 짐을 잔뜩 실은 작은 차",
+      "원래 생김새가 좀 이상한 물건: 무너진 케이크, 너무 큰 모자, 제멋대로 자란 선인장"
+    ],
+    "poor": [
+      "보기 좋거나 격식 있거나 정확해야 하는 사진: 증명사진, 웨딩 사진, 제품 사진, 브랜드 홍보",
+      "똑같이 중요한 주인공이 여럿인 단체 사진이나 장면(하나만 남길 수 있습니다)",
+      "예쁜 상업 일러스트, 지나치게 귀여운 만화, 정밀한 사실 묘사를 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "دفتر الشخصيات القبيحة الظريفة",
+    "tagline": "يُبقي عنصراً واحداً من صورتك ويرسم أطرف ما في شخصيته قبيحاً وأخرق عن قصد، لكنه يُعرف من النظرة الأولى.",
+    "look": "لا يوجد عادة إلا عنصر واحد، مع إشارة أو إشارتين على الأكثر إلى المكان، ويُحذف معظم الخلفية والفوضى. تُضخَّم أطرف حركة أو تعبير أو مفارقة في الصورة: النِّسب مختلّة عمداً، والمنظور متروك، والأشكال مائلة خرقاء، والخطوط مرتخية مرتعشة، كأن من رسمها لا يجيد الرسم تماماً، لكن ذلك كله تحت السيطرة. يُلوَّن بأقلام الشمع أو الأقلام الملوّنة أو الفرشاة الجافة أو تعبئة مسطّحة خشنة تتجاوز الخطوط وتترك فراغات وحبيبات، بألوان قليلة هي أكثر ألوان الصورة حيوية. الأرضية نظيفة فاتحة مع فراغ أبيض كثير، والنص لا يتجاوز تعليقاً ساخراً أو ملاحظة عابرة مكتوبة على عجل.",
+    "traits": ["قبيح وظريف", "رسم يدوي مائل", "اختلال مقصود", "عنصر واحد", "قلم شمع خشن", "قليل وغريب وأخرق ودقيق"],
+    "good": [
+      "حيوانات ذات شخصية أو تعبير واضح: قطة تحدّق بغضب، كلب يميل برأسه، إوزة فاتحة منقارها",
+      "لحظات فيها شيء من الحرج أو المفارقة: شخص بلّله المطر، وجه بعد تذوّق شيء حامض، سيارة صغيرة محمّلة فوق طاقتها",
+      "أشياء تبدو غريبة أصلاً: كعكة منهارة، قبعة ضخمة، صبّارة نمت بلا ضابط"
+    ],
+    "poor": [
+      "صور يجب أن تبدو جميلة أو رسمية أو دقيقة: صور الهوية، صور الأعراس، صور المنتجات، الترويج للعلامات",
+      "صور جماعية أو مشاهد بعدة عناصر متساوية الأهمية، إذ لا يُبقى إلا واحد",
+      "طلب رسم تجاري جميل أو رسوم كرتونية مفرطة اللطافة أو واقعية دقيقة"
+    ]
+  }
+}
